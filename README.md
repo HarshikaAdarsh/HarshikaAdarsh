@@ -51,11 +51,17 @@
   <h3> Areas of Interest </h3>
   <img src="https://skillicons.dev/icons?i=tailwind,docker,vite,redux" />
 
+  <h1>
+    
+  </h1>
+
   <h3> Contact </h3>
-  <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/artemshchirov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://telegram.me/mindisakey"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/+972584441705"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ 
+  <a href="https://harshikaportfolio.netlify.app//"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/HarshikaAdarsh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.gg/Unwhiter05#5039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Unwhiter05#5039" height="30" width="40" /></a>
+  <a href="https://hashnode.com/https://hashnode.com/@harshikaad81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@harshikaad81" height="30" width="40" /></a>
+</p>
 </div>
 
 
