@@ -40,16 +40,16 @@
   <h1></h1>
 
   <h3 > Main Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,java" />
 
   <h3> Tools </h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,replit,git,github,figma" />
   
   <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,wordpress,wix" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
+  <img src="https://skillicons.dev/icons?i=tailwind,docker,vite,redux,graphql" />
 
   <h3> Contact </h3>
   <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
