@@ -1,5 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-<h1 align="center">Hi 👋, I'm Harshika Adarsh</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Harshika%20Adarsh&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋HELLO,+MY+NAME+===+HARSHIKA+ADARSH;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+SPECIALIZATION+===+REACT+DEVELOPMENT;MY+EXPERIENCE+>+1.5+YEARS+IN+PROGRAMMING)
+
+<h1></h1>
 <h3 align="center">It's a bug. No,it's a feature...</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
