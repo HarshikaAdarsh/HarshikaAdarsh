@@ -35,7 +35,7 @@
   
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshikaAdarsh&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshikaAdarsh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="HarshikaAdarsh github stats" />
+  <img height="auto" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshikaAdarsh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="HarshikaAdarsh github stats" />
   
   <h1></h1>
 
