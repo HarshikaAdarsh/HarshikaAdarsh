@@ -43,13 +43,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,java" />
 
   <h3> Tools </h3>
-  <img src="https://skillicons.dev/icons?i=vscode,replit,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,replit" />
   
   <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,wordpress,wix" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,wordpress" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,docker,vite,redux,graphql" />
+  <img src="https://skillicons.dev/icons?i=tailwind,docker,vite,redux" />
 
   <h3> Contact </h3>
   <a href="https://artemshchirov.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
