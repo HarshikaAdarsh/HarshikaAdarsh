@@ -40,7 +40,7 @@
   <h1></h1>
 
   <h3 > Main Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,java,c++" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,java" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,replit" />
