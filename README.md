@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Course-selling App**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarshikaAdarsh/Portfolio](https://github.com/HarshikaAdarsh/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/HarshikaAdarsh/Portfolio](https://hereismyportfolioo.netlify.app/)
 
 - 📝 I regularly write articles on [https://harshikaadblogs.hashnode.dev/](https://harshikaadblogs.hashnode.dev/)
 
