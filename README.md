@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshikaadarsh" target="blank"><img src="https://img.shields.io/twitter/follow/harshikaadarsh?logo=twitter&style=for-the-badge" alt="harshikaadarsh" /></a> </p>
 
-- 🔭 I’m currently working on [React Agro-tech project](https://github.com/HarshikaAdarsh/Agrotech_React)
+- 🔭 I’m currently working on [Agriculture-tech project](https://github.com/HarshikaAdarsh/Agriculture-tech)
 
-- 🌱 I’m currently learning **Reactjs,Nodejs**
+- 👯 I’m looking to collaborate on **Agriculture-tech web-app**
 
-- 👯 I’m looking to collaborate on **Course-selling App**
+- 🌱 I’m currently learning **Reactjs,Nodejs,Express,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarshikaAdarsh/Portfolio](https://hereismyportfolioo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/HarshikaAdarsh/portf](https://harshikaadarsh.github.io/portf/)
 
 - 📝 I regularly write articles on [https://harshikaadblogs.hashnode.dev/](https://harshikaadblogs.hashnode.dev/)
 
