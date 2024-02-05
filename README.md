@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007f80&height=180&section=header&text=Harshika%20Adarsh&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007f80&size=35&center=true&vCenter=true&width=1000&lines=👋HELLO,+MY+NAME+===+HARSHIKA+ADARSH;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+SPECIALIZATION+===+REACT+DEVELOPMENT;MY+EXPERIENCE+>+1.5+YEARS+IN+PROGRAMMING)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007f80&size=35&center=true&vCenter=true&width=1000&lines=👋HELLO,+MY+NAME+===+HARSHIKA+ADARSH;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+SPECIALIZATION+===+REACT+DEVELOPMENT;MY+EXPERIENCE+>+2.5+YEARS+IN+PROGRAMMING)
 
 <h1></h1>
 <h3 align="center">It's a bug. No,it's a feature...</h3>
